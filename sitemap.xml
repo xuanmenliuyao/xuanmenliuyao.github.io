@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xuanmenliuyao.github.io/posts/79f5.html</loc>
+    
+    <lastmod>2022-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xuanmenliuyao.github.io/qigua/index.html</loc>
     
     <lastmod>2022-09-19</lastmod>
@@ -363,6 +372,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://xuanmenliuyao.github.io/tags/%E4%BB%99%E6%A2%A6%E6%8C%87%E7%8E%84/</loc>
+    <lastmod>2022-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuanmenliuyao.github.io/tags/%E4%BB%99%E6%A2%A6%E6%8C%87%E7%8E%84-%E8%BD%A6/</loc>
+    <lastmod>2022-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -381,6 +404,13 @@
   
   <url>
     <loc>https://xuanmenliuyao.github.io/categories/%E5%AE%9E%E6%88%98%E5%8D%A6%E4%BE%8B/</loc>
+    <lastmod>2022-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuanmenliuyao.github.io/categories/%E4%BB%99%E6%A2%A6%E6%8C%87%E7%8E%84/</loc>
     <lastmod>2022-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
