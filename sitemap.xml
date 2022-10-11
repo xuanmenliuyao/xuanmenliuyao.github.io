@@ -703,6 +703,13 @@
   </url>
   
   <url>
+    <loc>https://xmlyjy.cn/tags/%E7%BF%BB%E5%A0%82/</loc>
+    <lastmod>2022-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xmlyjy.cn/tags/%E6%9C%AF/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -710,7 +717,7 @@
   </url>
   
   <url>
-    <loc>https://xmlyjy.cn/tags/%E7%BF%BB%E5%A0%82/</loc>
+    <loc>https://xmlyjy.cn/tags/%E5%9C%88%E5%A0%82/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -724,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://xmlyjy.cn/tags/%E5%9C%88%E5%A0%82/</loc>
+    <loc>https://xmlyjy.cn/tags/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -739,13 +746,6 @@
   
   <url>
     <loc>https://xmlyjy.cn/tags/%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2022-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xmlyjy.cn/tags/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
